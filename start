@@ -1,0 +1,1 @@
+./prezentace.sh -r /home/pi/Public/data/ -u pi -p raspi -h localhost
